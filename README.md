@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mcworkaholic
 - 👀 I’m interested in full stack development, data analysis, automation, and development using any languages for the business and consumer world
 -  I currently use Python3 and C#, and am taking a look at Golang
-- 🌱 I’m currently pursuing my Bachelor's degree in Information Systems at SCSU
+- 🌱 I’m currently pursuing my Bachelor's degree in Information Systems at Saint Cloud State University, MN
 - 💞️ I'll collaborate
 - 📫 How to reach me: https://www.linkedin.com/in/weston-evans-2b4077201/
 -
